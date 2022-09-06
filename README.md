@@ -1,2 +1,1 @@
-Hello, Hexlet!
-restore
+No code No pain
